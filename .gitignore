@@ -1,0 +1,8 @@
+/node_modules
+bundle.js
+yarn.lock
+npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
